@@ -1,5 +1,5 @@
 # Markdown Resumo
-
+___
 Markdowns mais comuns para auxiliar na formatacao.
 
 
@@ -8,9 +8,8 @@ Markdowns mais comuns para auxiliar na formatacao.
 1. Links
 1. Table
 
-___
-
 ## 1. CABECALHOS
+___
 ```
 # TITULO H1  
 ## TITULO H2  
@@ -26,7 +25,8 @@ ___
 ##### TITULO H5  
 ###### TITULO H6  
 
-## 2. LISTAS  
+## 2. LISTAS 
+___
 ### Lista de Controle (Check-List)
 ```
 - [ ] Item   
@@ -58,7 +58,10 @@ ___
 - Item with Minus  
 
 ## LINKS
+___
 ## TABELAS
+___
 ## EMOJIS
+___
 
 
