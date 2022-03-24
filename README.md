@@ -1,30 +1,33 @@
-# Markdown_Cheatsheet
+# Markdown Resumo
 
-Most commonly used markdown.  
+Markdowns mais comuns para auxiliar na formatacao.
 
-1. Headers
+
+1. Cabecalhos
 1. Lists
 1. Links
 1. Table
 
-## 1. HEADERS
-```
-# TITLE H1  
-## TITLE H2  
-### TITLE H3  
-#### TITLE H4  
-##### TITLE H5  
-###### TITLE H6  
-```
-# TITLE H1  
-## TITLE H2  
-### TITLE H3  
-#### TITLE H4  
-##### TITLE H5  
-###### TITLE H6  
+___
 
-## 2. LISTS  
-### Check List 
+## 1. CABECALHOS
+```
+# TITULO H1  
+## TITULO H2  
+### TITULO H3  
+#### TITULO H4  
+##### TITULO H5  
+###### TITULO H6  
+```
+# TITULO H1  
+## TITULO H2  
+### TITULO H3  
+#### TITULO H4  
+##### TITULO H5  
+###### TITULO H6  
+
+## 2. LISTAS  
+### Lista de Controle (Check-List)
 ```
 - [ ] Item   
 - [X] Checked Item  
@@ -32,7 +35,7 @@ Most commonly used markdown.
 - [ ] Item   
 - [X] Checked Item  
 
-### Ordered List
+### Listas Ordenadas
 ```
 1. Item 1  
 1. Item 2  
@@ -44,7 +47,7 @@ Most commonly used markdown.
 1. Item 3  
 1. Item 4  
 
-### Unordered List
+### Listas Nao-Ordenadas
 ```
 * Item with Asterisks  
 + Item with Plus  
@@ -55,7 +58,7 @@ Most commonly used markdown.
 - Item with Minus  
 
 ## LINKS
-## TABLES
+## TABELAS
 ## EMOJIS
 
 
