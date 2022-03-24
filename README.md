@@ -2,20 +2,20 @@
 
 Most commonly used markdown.  
 
+1. Headers
+1. Lists
+1. Links
+1. Table
 
-- Headers
-- Lists
-- Links
-- Table
-
-## HEADERS (DEAFAULT)  
-\# TITLE H1  
-\## TITLE H2  
-\### TITLE H3  
-\#### TITLE H4  
-\##### TITLE H5  
-\###### TITLE H6  
-
+## 1. HEADERS
+```
+# TITLE H1  
+## TITLE H2  
+### TITLE H3  
+#### TITLE H4  
+##### TITLE H5  
+###### TITLE H6  
+```
 # TITLE H1  
 ## TITLE H2  
 ### TITLE H3  
@@ -23,14 +23,36 @@ Most commonly used markdown.
 ##### TITLE H5  
 ###### TITLE H6  
 
-
-## LISTS  
-\- [ ] Item   
-\- [X] Checked Item  
-
+## 2. LISTS  
+### Check List 
+```
 - [ ] Item   
-- [X] Checked Item
+- [X] Checked Item  
+```
+- [ ] Item   
+- [X] Checked Item  
 
+### Ordered List
+```
+1. Item 1  
+1. Item 2  
+1. Item 3  
+1. Item 4  
+```
+1. Item 1  
+1. Item 2  
+1. Item 3  
+1. Item 4  
+
+### Unordered List
+```
+* Item with Asterisks  
++ Item with Plus  
+- Item with Minus 
+```
+* Item with Asterisks  
++ Item with Plus  
+- Item with Minus  
 
 ## LINKS
 ## TABLES
