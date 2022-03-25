@@ -55,7 +55,57 @@ Markdowns mais comuns para auxiliar na formatacao.
 - Item com sinal de subtracao  
 
 ## LINKS
+### Links diretos
+```
+Link direto: https://github.com/rgodoy86
+Link entre os simbolos <>: <https://github.com/rgodoy86> 
+```
+https://github.com/rgodoy86  
+<https://github.com/rgodoy86>  
+
+
+### Links com textos
+```
+[Visite meu perfil do Github](https://github.com/rgodoy86)
+```
+[Visite meu perfil do Github](https://github.com/rgodoy86)  
+
+
+### Links com referencias numericas
+```
+[GitHub Link][1]  
+[LinkedIn Link][2]  
+
+[1]: https://github.com/rgodoy86  
+[2]: https://www.linkedin.com/in/raphael-godoy-007a8738/
+```
+[GitHub Link][1]  
+[LinkedIn Link][2]  
+
+[1]: https://github.com/rgodoy86  
+[2]: https://www.linkedin.com/in/raphael-godoy-007a8738/
+
+
+### Links com referencias (alternativa)
+```
+[GitHub]  
+[LinkedIn]  
+
+[GitHub]: https://github.com/rgodoy86  
+[LinkedIn]: https://www.linkedin.com/in/raphael-godoy-007a8738/  
+```
+[GitHub]  
+[LinkedIn]  
+
+[GitHub]: https://github.com/rgodoy86  
+[LinkedIn]: https://www.linkedin.com/in/raphael-godoy-007a8738/  
+
+
 ## TABELAS
 ## EMOJIS
+```
+https://gitmoji.dev/ traz inumeros emojis aonde voce pode utilizar para dar mais vida aos seus textos
 
-
+:art: :zap: :fire: :bug: :sparkles:
+```
+:art: :zap: :fire: :bug: :sparkles:
