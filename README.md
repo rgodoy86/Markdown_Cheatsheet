@@ -1,6 +1,11 @@
 # :sparkles: Markdown Resumo :sparkles:
 Markdowns mais comuns para auxiliar na formatacao.
 
+Se voce deseja utilizar, por favor me adicionar na sua referencia. 
+Esse repositorio foi criado em portugues brasileiro e foi pensado especialmente em brasileiros que nao falam ou possuem familiaridade com a lingua inglesa.
+
+If you wish you use this repository, please credit me. This repo has been created in brazilian portugues (PT-BR) so it can reach out to people that are not familiar with the english language.
+
 
 1. Cabecalhos 
 1. Lists
