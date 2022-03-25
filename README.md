@@ -102,8 +102,56 @@ https://github.com/rgodoy86
 
 
 ## :triangular_flag_on_post: TABELAS
+### Tabela com barras verticais | alinhadas
+```
+|Coluna 1     |Coluna 2     |Coluna 3     |
+|-------------|-------------|-------------|
+|Linha 1 Col 1|Linha 1 Col 2|Linha 1 Col 3|
+```
+|  Coluna 1   |  Coluna 2   |  Coluna 3   |
+|-------------|-------------|-------------|
+|Linha 1 Col 1|Linha 1 Col 2|Linha 1 Col 3|
+  
+  
+### Tabela as barras verticais | desalinhadas
+```
+|Coluna 1|Coluna 2|Coluna 3|
+|---|---|---|
+|Linha 1 Col 1|Linha 1 Col 2|Linha 1 Col 3|
+```
+|Coluna 1|Coluna 2|Coluna 3|
+|---|---|---|
+|Linha 1 Col 1|Linha 1 Col 2|Linha 1 Col 3|
+  
+  
+### Tabela com Alinhamento (esquerda, centro:, direita)
+```
+Esquerda :----
+Centro   :---:
+Direita  ----:
 
-
+|Alinhamento da Coluna 1| Alinhamento da Coluna 2| Alinhamento da Coluna 3|
+|:----------------------|:----------------------:|-----------------------:|
+|Esquerda               |Centro                  |Direita                 |
+```
+|Alinhamento da Coluna 1| Alinhamento da Coluna 2| Alinhamento da Coluna 3|
+|:----------------------|:----------------------:|-----------------------:|
+|Esquerda               |Centro                  |Direita                 |
+  
+  
+### Tabela com items ressaltados
+```
+|Coluna 1     |Coluna 2     |Coluna 3     |
+|-------------|-------------|-------------|
+|Linha 1 Col 1|Linha 1 Col 2|Linha 1 Col 3|
+```
+|  Coluna 1   |  Coluna 2   |  Coluna 3   |
+|:-----------:|:-----------:|:-----------:|
+|*Sublinhado* |Linha 1 Col 2|Linha 1 Col 3|
+|Linha 2 Col 1|Linha 2 Col 2|**Negrito**  |
+|Linha 3 Col 1|`Renderizado`|Linha 3 Col 3|
+|Linha 4 Col 1|Linha 4 Col q|Linha 4 Col 3|
+  
 ## :triangular_flag_on_post: EMOJIS
 ```
 :art: :zap: :fire: :bug: :sparkles:
@@ -111,3 +159,6 @@ https://github.com/rgodoy86
 :art: :zap: :fire: :bug: :sparkles:
 
 Tabela com varios emojis: [EMOJI_LIST](https://github.com/rgodoy86/Markdown_Cheatsheet/blob/main/EMOJI_LIST.md)
+
+***
+
