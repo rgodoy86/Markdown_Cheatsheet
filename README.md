@@ -1,13 +1,13 @@
-# Markdown Resumo
+# :sparkles: Markdown Resumo :sparkles:
 Markdowns mais comuns para auxiliar na formatacao.
 
 
-1. Cabecalhos
+1. Cabecalhos 
 1. Lists
 1. Links
 1. Table
 
-## 1. CABECALHOS
+## :triangular_flag_on_post: CABECALHOS
 ```
 # TITULO H1  
 ## TITULO H2  
@@ -23,7 +23,7 @@ Markdowns mais comuns para auxiliar na formatacao.
 ##### TITULO H5  
 ###### TITULO H6  
 
-## 2. LISTAS
+## :triangular_flag_on_post: LISTAS
 ### Lista de Controle (Check-List)
 ```
 - [ ] Item   
@@ -54,7 +54,7 @@ Markdowns mais comuns para auxiliar na formatacao.
 + Item com sinal de adicao  
 - Item com sinal de subtracao  
 
-## LINKS
+## :triangular_flag_on_post: LINKS
 ### Links diretos
 ```
 Link direto: https://github.com/rgodoy86
@@ -101,11 +101,11 @@ https://github.com/rgodoy86
 [LinkedIn]: https://www.linkedin.com/in/raphael-godoy-007a8738/  
 
 
-## TABELAS
-## EMOJIS
-```
-https://gitmoji.dev/ traz inumeros emojis aonde voce pode utilizar para dar mais vida aos seus textos
+## :triangular_flag_on_post: TABELAS
 
+
+## :triangular_flag_on_post: EMOJIS
+```
 :art: :zap: :fire: :bug: :sparkles:
 ```
 :art: :zap: :fire: :bug: :sparkles:
