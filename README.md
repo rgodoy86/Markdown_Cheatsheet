@@ -109,3 +109,5 @@ https://github.com/rgodoy86
 :art: :zap: :fire: :bug: :sparkles:
 ```
 :art: :zap: :fire: :bug: :sparkles:
+
+Tabela com varios emojis: [EMOJI_LIST](https://github.com/rgodoy86/Markdown_Cheatsheet/blob/main/EMOJI_LIST.md)
