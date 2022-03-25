@@ -154,9 +154,12 @@ Direita  ----:
   
 ### Tabela com items ressaltados
 ```
-|Coluna 1     |Coluna 2     |Coluna 3     |
-|-------------|-------------|-------------|
-|Linha 1 Col 1|Linha 1 Col 2|Linha 1 Col 3|
+|  Coluna 1   |  Coluna 2   |  Coluna 3   |
+|:-----------:|:-----------:|:-----------:|
+|*Sublinhado* |Linha 1 Col 2|Linha 1 Col 3|
+|Linha 2 Col 1|Linha 2 Col 2|**Negrito**  |
+|Linha 3 Col 1|`Renderizado`|Linha 3 Col 3|
+|Linha 4 Col 1|Linha 4 Col q|Linha 4 Col 3|
 ```
 |  Coluna 1   |  Coluna 2   |  Coluna 3   |
 |:-----------:|:-----------:|:-----------:|
